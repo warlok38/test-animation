@@ -6,6 +6,7 @@ export const Layout = styled(AntdLayout)`
     height: 100vh;
 
     .ant-layout-content {
+      position: relative;
       background-color: #121418;
       color: #fff;
       height: 100%;
